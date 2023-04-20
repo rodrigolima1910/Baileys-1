@@ -58,3 +58,10 @@ getMessage: async (key) => {
 // get message diatas untuk mengatasi pesan gagal dikirim, "menunggu pesan", dapat dicoba lagi
 }
 ```
+
+---------
+
+<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![Amirul Dev](https://github.com/amiruldev20.png?size=100)](https://github.com/amiruldev20) | [![Nadia Dev](https://github.com/nadiadev7.png?size=100)](https://github.com/nadiadev7)
+----|----|----
+[Adiwajshing](https://github.com/adiwajshing) | [Amirul Dev](https://github.com/amiruldev20) | [Nadia Dev](https://github.com/nadiadev7)
+Creator Library | Developer | Most Active Contributor

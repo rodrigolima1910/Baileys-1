@@ -11,7 +11,11 @@
 GRUP DISKUSI [KLIK DISINI](https://chat.whatsapp.com/KujS5iG5TKfCnrRTlj4MfO)
 
 ### how to use?
-change package.json to "@adiwajshing/baileys": "npm:baileys"
+change package.json to
+"@adiwajshing/baileys": "npm:baileys"
+or
+"@adiwajshing/baileys": "github:amiruldev20/baileys"
+
 
 ## connection options
 > **Note**: setting tambahan connection option seperti dibawah ini terlebih dahulu

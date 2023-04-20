@@ -10,9 +10,10 @@
  
 GRUP DISKUSI [KLIK DISINI](https://chat.whatsapp.com/KujS5iG5TKfCnrRTlj4MfO)
 
-### baca semua keterangan dibawah biar tahu
+### how to use?
+change package.json to "@adiwajshing/baileys": "npm:baileys"
 
-## 🔥 connection options
+## connection options
 > **Note**: setting tambahan connection option seperti dibawah ini terlebih dahulu
 ```
 const connectionOptions = {

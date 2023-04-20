@@ -1,6 +1,6 @@
 {
   "name": "baileys",
-  "version": "6.0.8",
+  "version": "6.0.9",
   "description": "Baileys Fixed",
   "homepage": "https://github.com/amiruldev20/Baileys",
   "main": "lib/index.js",
@@ -43,6 +43,7 @@
     "node-cache": "^5.1.2",
     "pino": "^7.0.0",
     "protobufjs": "^6.11.3",
+    "qrcode-terminal": "latest",
     "ws": "^8.0.0"
   },
   "peerDependencies": {
